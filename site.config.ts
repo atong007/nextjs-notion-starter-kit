@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Personal Blog About Tech',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+//   twitter: 'transitive_bs',
+  github: 'atong007',
+//   linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
